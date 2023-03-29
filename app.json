@@ -1,7 +1,7 @@
 {
   "name": "UʟᴛʀᴏɴMᴜsɪᴄ RᴏBᴏ",
   "description": "A sᴜᴘᴇʀʙ Tᴇʟᴇɢʀᴀᴍ VᴏɪᴄᴇCʜᴀᴛ Pʟᴀʏᴇʀ. 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑼𝒍𝒕𝒓𝒐𝒏𝑹𝒐𝑩𝒐",
-  "repository": "https://github.com/UltronRoBo/UltronMusic",
+  "repository": "https://github.com/Recordu/UltronMusic",
   "stack": "container",
   "keywords": [
     "telegram",
@@ -72,7 +72,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "Eco"
     }
   },
   "buildpacks": [

@@ -2,7 +2,7 @@
   "name": "UʟᴛʀᴏɴMᴜsɪᴄ RᴏBᴏ",
   "description": "A sᴜᴘᴇʀʙ Tᴇʟᴇɢʀᴀᴍ VᴏɪᴄᴇCʜᴀᴛ Pʟᴀʏᴇʀ. 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑼𝒍𝒕𝒓𝒐𝒏𝑹𝒐𝑩𝒐",
   "repository": "https://github.com/Recordu/UltronMusic",
-  "stack": "container",
+  "stack": "Eco",
   "keywords": [
     "telegram",
     "bot",
